@@ -10,6 +10,10 @@
     background-color: #191919;
     min-height: 100vh;
   }
+
+  .ativa {
+    background-color: yellow;
+  }
   
   input {
     border: none;
